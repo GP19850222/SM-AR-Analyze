@@ -3,3 +3,4 @@ pandas
 streamlit-aggrid
 datetime
 altair
+openpyxl
